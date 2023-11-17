@@ -1,4 +1,4 @@
-# 10.5-Business-Case-Yulu---Hypothesis-Testing
+# 10.5-Business-Case-Yulu-Hypothesis-Testing
 
 # Yulu - Hypothesis Testing 🛴📊
 
